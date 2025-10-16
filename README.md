@@ -33,3 +33,5 @@ modify `config.toml` and observe behavior changes
 explore `/labs` directory for chaos engineering scenarios
 
 [tutorial video](https://learn.arcdb.dev/slashdot) • [community forum](https://forum.arcdb.dev)
+
+# PR Merge: 2025-10-17 - fix/merge-2258
